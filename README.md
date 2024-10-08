@@ -54,6 +54,3 @@ npm install
 3.  Start the frontend development server:
 ```bash
 npm run dev
-
-
-This is a test message
